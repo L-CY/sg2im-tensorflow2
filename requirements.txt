@@ -20,3 +20,4 @@ six == 1.12.0
 toolz == 0.10.0
 tensorflow == 2.0.0; sys_platform == 'darwin'
 tensorflow-gpu == 2.0.0; sys_platform == 'win32' or sys_platform == 'linux'
+tensorflow-addons == 0.6.0; sys_platform == 'darwin' or sys_platform == 'linux'
