@@ -30,7 +30,7 @@ fully-connected.
 """
 
 
-VG_DIR = 'datasets/vg'
+VG_DIR = 'scripts/datasets/vg'
 
 parser = argparse.ArgumentParser()
 
